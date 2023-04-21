@@ -1,0 +1,64 @@
+/* body {
+    background-color: rgb(109, 186, 215);
+    background-image: url(https://img.freepik.com/free-vector/blue-pink-halftone-background_53876-99004.jpg?w=2000); */
+/* } */
+
+h4 {
+    position: absolute;
+    right: 68%;
+}
+
+.form {
+    position: absolute;
+    height: fit-content;
+    right: 70%;
+    top: 33%;
+}
+
+.form-control {
+    width: 90%;
+}
+
+.modi img {
+    width: 400px;
+    position: absolute;
+    bottom: 25%;
+    left: 40%;
+    height: 45%;
+}
+
+.nmodi img {
+    width: 390px;
+    position: absolute;
+    left: 8%;
+    top: 30%;
+
+}
+
+.emblem img {
+    width: 300px;
+    position: absolute;
+    right: 5%;
+    top: 30%;
+}
+
+.form1 {
+    position: absolute;
+    right: 30%;
+}
+
+.diary img {
+    width: 400px;
+    position: absolute;
+    top: 100%;
+    right: 63%;
+}
+
+.page {
+    height: 1150px;
+    width: 500px;
+    background-color: burlywood;
+    margin-left: 600px;
+    border-radius: 3%;
+    margin-top: 20px;
+}
